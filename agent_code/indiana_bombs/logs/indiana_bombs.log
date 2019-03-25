@@ -1,0 +1,516 @@
+2019-03-25 23:07:42,719 [indiana_bombs_wrapper] INFO: Import agent code from "agent_code/indiana_bombs/callbacks.py"
+2019-03-25 23:07:43,147 [indiana_bombs_wrapper] INFO: Initialize agent code
+2019-03-25 23:07:43,184 [indiana_bombs_wrapper] INFO: STARTING ROUND #1
+2019-03-25 23:07:43,191 [indiana_bombs_wrapper] INFO: STARTING STEP 1
+2019-03-25 23:07:43,230 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.039s of thinking
+2019-03-25 23:07:43,236 [indiana_bombs_wrapper] INFO: STARTING STEP 2
+2019-03-25 23:07:43,240 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-25 23:07:43,247 [indiana_bombs_wrapper] INFO: STARTING STEP 3
+2019-03-25 23:07:43,257 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.010s of thinking
+2019-03-25 23:07:43,263 [indiana_bombs_wrapper] INFO: STARTING STEP 4
+2019-03-25 23:07:43,340 [indiana_bombs_wrapper] INFO: Chose action UP after 0.077s of thinking
+2019-03-25 23:07:43,348 [indiana_bombs_wrapper] INFO: STARTING STEP 5
+2019-03-25 23:07:43,354 [indiana_bombs_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-25 23:07:43,368 [indiana_bombs_wrapper] INFO: STARTING STEP 6
+2019-03-25 23:07:43,375 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-25 23:07:43,384 [indiana_bombs_wrapper] INFO: STARTING STEP 7
+2019-03-25 23:07:43,393 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:43,404 [indiana_bombs_wrapper] INFO: STARTING STEP 8
+2019-03-25 23:07:43,413 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.009s of thinking
+2019-03-25 23:07:43,425 [indiana_bombs_wrapper] INFO: STARTING STEP 9
+2019-03-25 23:07:43,433 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.008s of thinking
+2019-03-25 23:07:43,458 [indiana_bombs_wrapper] INFO: STARTING STEP 10
+2019-03-25 23:07:43,469 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-25 23:07:43,481 [indiana_bombs_wrapper] INFO: STARTING STEP 11
+2019-03-25 23:07:43,490 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.009s of thinking
+2019-03-25 23:07:43,500 [indiana_bombs_wrapper] INFO: STARTING STEP 12
+2019-03-25 23:07:43,510 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-25 23:07:43,519 [indiana_bombs_wrapper] INFO: STARTING STEP 13
+2019-03-25 23:07:43,526 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-25 23:07:43,544 [indiana_bombs_wrapper] INFO: STARTING STEP 14
+2019-03-25 23:07:43,554 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-25 23:07:43,564 [indiana_bombs_wrapper] INFO: STARTING STEP 15
+2019-03-25 23:07:43,570 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:43,579 [indiana_bombs_wrapper] INFO: STARTING STEP 16
+2019-03-25 23:07:43,585 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-25 23:07:43,596 [indiana_bombs_wrapper] INFO: STARTING STEP 17
+2019-03-25 23:07:43,606 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.010s of thinking
+2019-03-25 23:07:43,629 [indiana_bombs_wrapper] INFO: STARTING STEP 18
+2019-03-25 23:07:43,637 [indiana_bombs_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-25 23:07:43,651 [indiana_bombs_wrapper] INFO: STARTING STEP 19
+2019-03-25 23:07:43,663 [indiana_bombs_wrapper] INFO: Chose action UP after 0.012s of thinking
+2019-03-25 23:07:43,675 [indiana_bombs_wrapper] INFO: STARTING STEP 20
+2019-03-25 23:07:43,686 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-25 23:07:43,713 [indiana_bombs_wrapper] INFO: STARTING STEP 21
+2019-03-25 23:07:43,721 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:43,734 [indiana_bombs_wrapper] INFO: STARTING STEP 22
+2019-03-25 23:07:43,739 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-25 23:07:43,750 [indiana_bombs_wrapper] INFO: STARTING STEP 23
+2019-03-25 23:07:43,755 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:43,764 [indiana_bombs_wrapper] INFO: STARTING STEP 24
+2019-03-25 23:07:43,774 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-25 23:07:43,782 [indiana_bombs_wrapper] INFO: STARTING STEP 25
+2019-03-25 23:07:43,798 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.016s of thinking
+2019-03-25 23:07:43,807 [indiana_bombs_wrapper] INFO: STARTING STEP 26
+2019-03-25 23:07:43,813 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-25 23:07:43,822 [indiana_bombs_wrapper] INFO: STARTING STEP 27
+2019-03-25 23:07:43,830 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.008s of thinking
+2019-03-25 23:07:43,840 [indiana_bombs_wrapper] INFO: STARTING STEP 28
+2019-03-25 23:07:43,876 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.035s of thinking
+2019-03-25 23:07:43,878 [indiana_bombs_wrapper] INFO: STARTING STEP 29
+2019-03-25 23:07:43,890 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.010s of thinking
+2019-03-25 23:07:43,895 [indiana_bombs_wrapper] INFO: STARTING STEP 30
+2019-03-25 23:07:43,919 [indiana_bombs_wrapper] INFO: Chose action UP after 0.023s of thinking
+2019-03-25 23:07:43,921 [indiana_bombs_wrapper] INFO: STARTING STEP 31
+2019-03-25 23:07:43,937 [indiana_bombs_wrapper] INFO: Chose action UP after 0.013s of thinking
+2019-03-25 23:07:43,939 [indiana_bombs_wrapper] INFO: STARTING STEP 32
+2019-03-25 23:07:43,959 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.017s of thinking
+2019-03-25 23:07:43,965 [indiana_bombs_wrapper] INFO: STARTING STEP 33
+2019-03-25 23:07:43,974 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:43,980 [indiana_bombs_wrapper] INFO: STARTING STEP 34
+2019-03-25 23:07:43,990 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:43,995 [indiana_bombs_wrapper] INFO: STARTING STEP 35
+2019-03-25 23:07:44,000 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-25 23:07:44,004 [indiana_bombs_wrapper] INFO: STARTING STEP 36
+2019-03-25 23:07:44,010 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.006s of thinking
+2019-03-25 23:07:44,014 [indiana_bombs_wrapper] INFO: STARTING STEP 37
+2019-03-25 23:07:44,022 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-25 23:07:44,023 [indiana_bombs_wrapper] INFO: STARTING STEP 38
+2019-03-25 23:07:44,045 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.021s of thinking
+2019-03-25 23:07:44,051 [indiana_bombs_wrapper] INFO: STARTING STEP 39
+2019-03-25 23:07:44,058 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:44,062 [indiana_bombs_wrapper] INFO: STARTING STEP 40
+2019-03-25 23:07:44,083 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.021s of thinking
+2019-03-25 23:07:44,088 [indiana_bombs_wrapper] INFO: STARTING STEP 41
+2019-03-25 23:07:44,094 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:44,097 [indiana_bombs_wrapper] INFO: STARTING STEP 42
+2019-03-25 23:07:44,101 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-25 23:07:44,121 [indiana_bombs_wrapper] INFO: STARTING STEP 43
+2019-03-25 23:07:44,131 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.009s of thinking
+2019-03-25 23:07:44,133 [indiana_bombs_wrapper] INFO: STARTING STEP 44
+2019-03-25 23:07:44,143 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.010s of thinking
+2019-03-25 23:07:44,148 [indiana_bombs_wrapper] INFO: STARTING STEP 45
+2019-03-25 23:07:44,162 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.014s of thinking
+2019-03-25 23:07:44,165 [indiana_bombs_wrapper] INFO: STARTING STEP 46
+2019-03-25 23:07:44,170 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-25 23:07:44,174 [indiana_bombs_wrapper] INFO: STARTING STEP 47
+2019-03-25 23:07:44,185 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.011s of thinking
+2019-03-25 23:07:44,206 [indiana_bombs_wrapper] INFO: STARTING STEP 48
+2019-03-25 23:07:44,212 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:44,222 [indiana_bombs_wrapper] INFO: STARTING STEP 49
+2019-03-25 23:07:44,227 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-25 23:07:44,235 [indiana_bombs_wrapper] INFO: STARTING STEP 50
+2019-03-25 23:07:44,239 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-25 23:07:44,247 [indiana_bombs_wrapper] INFO: STARTING STEP 51
+2019-03-25 23:07:44,251 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-25 23:07:44,261 [indiana_bombs_wrapper] INFO: STARTING STEP 52
+2019-03-25 23:07:44,264 [indiana_bombs_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-25 23:07:44,287 [indiana_bombs_wrapper] INFO: STARTING STEP 53
+2019-03-25 23:07:44,290 [indiana_bombs_wrapper] INFO: Chose action UP after 0.002s of thinking
+2019-03-25 23:07:44,298 [indiana_bombs_wrapper] INFO: STARTING STEP 54
+2019-03-25 23:07:44,301 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-25 23:07:44,308 [indiana_bombs_wrapper] INFO: STARTING STEP 55
+2019-03-25 23:07:44,313 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:44,319 [indiana_bombs_wrapper] INFO: STARTING STEP 56
+2019-03-25 23:07:44,342 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.023s of thinking
+2019-03-25 23:07:44,351 [indiana_bombs_wrapper] INFO: STARTING STEP 57
+2019-03-25 23:07:44,378 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.026s of thinking
+2019-03-25 23:07:44,382 [indiana_bombs_wrapper] INFO: STARTING STEP 58
+2019-03-25 23:07:44,416 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.034s of thinking
+2019-03-25 23:07:44,420 [indiana_bombs_wrapper] INFO: STARTING STEP 59
+2019-03-25 23:07:44,446 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.026s of thinking
+2019-03-25 23:07:44,450 [indiana_bombs_wrapper] INFO: STARTING STEP 60
+2019-03-25 23:07:44,471 [indiana_bombs_wrapper] INFO: Chose action UP after 0.021s of thinking
+2019-03-25 23:07:44,479 [indiana_bombs_wrapper] INFO: STARTING STEP 61
+2019-03-25 23:07:44,504 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.025s of thinking
+2019-03-25 23:07:44,520 [indiana_bombs_wrapper] INFO: STARTING STEP 62
+2019-03-25 23:07:44,551 [indiana_bombs_wrapper] INFO: Chose action UP after 0.031s of thinking
+2019-03-25 23:07:44,573 [indiana_bombs_wrapper] INFO: STARTING STEP 63
+2019-03-25 23:07:44,588 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.015s of thinking
+2019-03-25 23:07:44,594 [indiana_bombs_wrapper] INFO: STARTING STEP 64
+2019-03-25 23:07:44,612 [indiana_bombs_wrapper] INFO: Chose action UP after 0.018s of thinking
+2019-03-25 23:07:44,621 [indiana_bombs_wrapper] INFO: STARTING STEP 65
+2019-03-25 23:07:44,632 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.011s of thinking
+2019-03-25 23:07:44,644 [indiana_bombs_wrapper] INFO: STARTING STEP 66
+2019-03-25 23:07:44,652 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:44,661 [indiana_bombs_wrapper] INFO: STARTING STEP 67
+2019-03-25 23:07:44,668 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:44,690 [indiana_bombs_wrapper] INFO: STARTING STEP 68
+2019-03-25 23:07:44,698 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:44,709 [indiana_bombs_wrapper] INFO: STARTING STEP 69
+2019-03-25 23:07:44,717 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-25 23:07:44,727 [indiana_bombs_wrapper] INFO: STARTING STEP 70
+2019-03-25 23:07:44,735 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-25 23:07:44,742 [indiana_bombs_wrapper] INFO: STARTING STEP 71
+2019-03-25 23:07:44,747 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:44,756 [indiana_bombs_wrapper] INFO: STARTING STEP 72
+2019-03-25 23:07:44,772 [indiana_bombs_wrapper] INFO: Chose action UP after 0.015s of thinking
+2019-03-25 23:07:44,779 [indiana_bombs_wrapper] INFO: STARTING STEP 73
+2019-03-25 23:07:44,784 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-25 23:07:44,793 [indiana_bombs_wrapper] INFO: STARTING STEP 74
+2019-03-25 23:07:44,804 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.011s of thinking
+2019-03-25 23:07:44,811 [indiana_bombs_wrapper] INFO: STARTING STEP 75
+2019-03-25 23:07:44,816 [indiana_bombs_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-25 23:07:44,825 [indiana_bombs_wrapper] INFO: STARTING STEP 76
+2019-03-25 23:07:44,831 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-25 23:07:44,850 [indiana_bombs_wrapper] INFO: STARTING STEP 77
+2019-03-25 23:07:44,859 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:44,890 [indiana_bombs_wrapper] INFO: STARTING STEP 78
+2019-03-25 23:07:44,927 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.036s of thinking
+2019-03-25 23:07:44,934 [indiana_bombs_wrapper] INFO: STARTING STEP 79
+2019-03-25 23:07:44,946 [indiana_bombs_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-25 23:07:44,958 [indiana_bombs_wrapper] INFO: STARTING STEP 80
+2019-03-25 23:07:44,965 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:44,970 [indiana_bombs_wrapper] INFO: STARTING STEP 81
+2019-03-25 23:07:44,979 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:44,981 [indiana_bombs_wrapper] INFO: STARTING STEP 82
+2019-03-25 23:07:44,991 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-25 23:07:44,999 [indiana_bombs_wrapper] INFO: STARTING STEP 83
+2019-03-25 23:07:45,008 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:45,022 [indiana_bombs_wrapper] INFO: STARTING STEP 84
+2019-03-25 23:07:45,035 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.013s of thinking
+2019-03-25 23:07:45,040 [indiana_bombs_wrapper] INFO: STARTING STEP 85
+2019-03-25 23:07:45,054 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.015s of thinking
+2019-03-25 23:07:45,060 [indiana_bombs_wrapper] INFO: STARTING STEP 86
+2019-03-25 23:07:45,063 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-03-25 23:07:45,072 [indiana_bombs_wrapper] INFO: STARTING STEP 87
+2019-03-25 23:07:45,083 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.012s of thinking
+2019-03-25 23:07:45,089 [indiana_bombs_wrapper] INFO: STARTING STEP 88
+2019-03-25 23:07:45,100 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.011s of thinking
+2019-03-25 23:07:45,107 [indiana_bombs_wrapper] INFO: STARTING STEP 89
+2019-03-25 23:07:45,128 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.021s of thinking
+2019-03-25 23:07:45,136 [indiana_bombs_wrapper] INFO: STARTING STEP 90
+2019-03-25 23:07:45,142 [indiana_bombs_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-25 23:07:45,147 [indiana_bombs_wrapper] INFO: STARTING STEP 91
+2019-03-25 23:07:45,161 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-03-25 23:07:45,168 [indiana_bombs_wrapper] INFO: STARTING STEP 92
+2019-03-25 23:07:45,177 [indiana_bombs_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-25 23:07:45,180 [indiana_bombs_wrapper] INFO: STARTING STEP 93
+2019-03-25 23:07:45,184 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-03-25 23:07:45,207 [indiana_bombs_wrapper] INFO: STARTING STEP 94
+2019-03-25 23:07:45,214 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:45,230 [indiana_bombs_wrapper] INFO: STARTING STEP 95
+2019-03-25 23:07:45,240 [indiana_bombs_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-25 23:07:45,251 [indiana_bombs_wrapper] INFO: STARTING STEP 96
+2019-03-25 23:07:45,271 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.019s of thinking
+2019-03-25 23:07:45,275 [indiana_bombs_wrapper] INFO: STARTING STEP 97
+2019-03-25 23:07:45,284 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-25 23:07:45,309 [indiana_bombs_wrapper] INFO: STARTING STEP 98
+2019-03-25 23:07:45,324 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.015s of thinking
+2019-03-25 23:07:45,336 [indiana_bombs_wrapper] INFO: STARTING STEP 99
+2019-03-25 23:07:45,349 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-03-25 23:07:45,358 [indiana_bombs_wrapper] INFO: STARTING STEP 100
+2019-03-25 23:07:45,377 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.018s of thinking
+2019-03-25 23:07:45,387 [indiana_bombs_wrapper] INFO: STARTING STEP 101
+2019-03-25 23:07:45,399 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.012s of thinking
+2019-03-25 23:07:45,405 [indiana_bombs_wrapper] INFO: STARTING STEP 102
+2019-03-25 23:07:45,409 [indiana_bombs_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-25 23:07:45,482 [indiana_bombs_wrapper] INFO: STARTING STEP 103
+2019-03-25 23:07:45,522 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.040s of thinking
+2019-03-25 23:07:45,535 [indiana_bombs_wrapper] INFO: STARTING STEP 104
+2019-03-25 23:07:45,549 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.013s of thinking
+2019-03-25 23:07:45,565 [indiana_bombs_wrapper] INFO: STARTING STEP 105
+2019-03-25 23:07:45,590 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.024s of thinking
+2019-03-25 23:07:45,599 [indiana_bombs_wrapper] INFO: STARTING STEP 106
+2019-03-25 23:07:45,611 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-03-25 23:07:45,620 [indiana_bombs_wrapper] INFO: STARTING STEP 107
+2019-03-25 23:07:45,631 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.011s of thinking
+2019-03-25 23:07:45,642 [indiana_bombs_wrapper] INFO: STARTING STEP 108
+2019-03-25 23:07:45,649 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-25 23:07:45,665 [indiana_bombs_wrapper] INFO: STARTING STEP 109
+2019-03-25 23:07:45,698 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.033s of thinking
+2019-03-25 23:07:45,716 [indiana_bombs_wrapper] INFO: STARTING STEP 110
+2019-03-25 23:07:45,720 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-25 23:07:45,739 [indiana_bombs_wrapper] INFO: STARTING STEP 111
+2019-03-25 23:07:45,743 [indiana_bombs_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-25 23:07:45,753 [indiana_bombs_wrapper] INFO: STARTING STEP 112
+2019-03-25 23:07:45,758 [indiana_bombs_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-25 23:07:45,771 [indiana_bombs_wrapper] INFO: STARTING STEP 113
+2019-03-25 23:07:45,773 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-25 23:07:45,775 [indiana_bombs_wrapper] INFO: STARTING STEP 114
+2019-03-25 23:07:45,785 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:45,787 [indiana_bombs_wrapper] INFO: STARTING STEP 115
+2019-03-25 23:07:45,801 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.014s of thinking
+2019-03-25 23:07:45,805 [indiana_bombs_wrapper] INFO: STARTING STEP 116
+2019-03-25 23:07:45,826 [indiana_bombs_wrapper] INFO: Chose action UP after 0.020s of thinking
+2019-03-25 23:07:45,827 [indiana_bombs_wrapper] INFO: STARTING STEP 117
+2019-03-25 23:07:45,841 [indiana_bombs_wrapper] INFO: Chose action UP after 0.014s of thinking
+2019-03-25 23:07:45,850 [indiana_bombs_wrapper] INFO: STARTING STEP 118
+2019-03-25 23:07:45,859 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.009s of thinking
+2019-03-25 23:07:45,897 [indiana_bombs_wrapper] INFO: STARTING STEP 119
+2019-03-25 23:07:45,904 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.007s of thinking
+2019-03-25 23:07:45,921 [indiana_bombs_wrapper] INFO: STARTING STEP 120
+2019-03-25 23:07:45,929 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-25 23:07:45,942 [indiana_bombs_wrapper] INFO: STARTING STEP 121
+2019-03-25 23:07:45,948 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:45,958 [indiana_bombs_wrapper] INFO: STARTING STEP 122
+2019-03-25 23:07:45,962 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-25 23:07:45,972 [indiana_bombs_wrapper] INFO: STARTING STEP 123
+2019-03-25 23:07:45,981 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-25 23:07:45,996 [indiana_bombs_wrapper] INFO: STARTING STEP 124
+2019-03-25 23:07:46,021 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.021s of thinking
+2019-03-25 23:07:46,027 [indiana_bombs_wrapper] INFO: STARTING STEP 125
+2019-03-25 23:07:46,044 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.017s of thinking
+2019-03-25 23:07:46,046 [indiana_bombs_wrapper] INFO: STARTING STEP 126
+2019-03-25 23:07:46,058 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:46,069 [indiana_bombs_wrapper] INFO: STARTING STEP 127
+2019-03-25 23:07:46,077 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-25 23:07:46,092 [indiana_bombs_wrapper] INFO: STARTING STEP 128
+2019-03-25 23:07:46,104 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.011s of thinking
+2019-03-25 23:07:46,117 [indiana_bombs_wrapper] INFO: STARTING STEP 129
+2019-03-25 23:07:46,130 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.013s of thinking
+2019-03-25 23:07:46,136 [indiana_bombs_wrapper] INFO: STARTING STEP 130
+2019-03-25 23:07:46,150 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.014s of thinking
+2019-03-25 23:07:46,159 [indiana_bombs_wrapper] INFO: STARTING STEP 131
+2019-03-25 23:07:46,172 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.013s of thinking
+2019-03-25 23:07:46,185 [indiana_bombs_wrapper] INFO: STARTING STEP 132
+2019-03-25 23:07:46,191 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:46,205 [indiana_bombs_wrapper] INFO: STARTING STEP 133
+2019-03-25 23:07:46,211 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-25 23:07:46,220 [indiana_bombs_wrapper] INFO: STARTING STEP 134
+2019-03-25 23:07:46,230 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-25 23:07:46,241 [indiana_bombs_wrapper] INFO: STARTING STEP 135
+2019-03-25 23:07:46,244 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-25 23:07:46,258 [indiana_bombs_wrapper] INFO: STARTING STEP 136
+2019-03-25 23:07:46,261 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-03-25 23:07:46,273 [indiana_bombs_wrapper] INFO: STARTING STEP 137
+2019-03-25 23:07:46,280 [indiana_bombs_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-25 23:07:46,301 [indiana_bombs_wrapper] INFO: STARTING STEP 138
+2019-03-25 23:07:46,309 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-25 23:07:46,324 [indiana_bombs_wrapper] INFO: STARTING STEP 139
+2019-03-25 23:07:46,334 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-25 23:07:46,347 [indiana_bombs_wrapper] INFO: STARTING STEP 140
+2019-03-25 23:07:46,359 [indiana_bombs_wrapper] INFO: Chose action UP after 0.011s of thinking
+2019-03-25 23:07:46,370 [indiana_bombs_wrapper] INFO: STARTING STEP 141
+2019-03-25 23:07:46,388 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.017s of thinking
+2019-03-25 23:07:46,408 [indiana_bombs_wrapper] INFO: STARTING STEP 142
+2019-03-25 23:07:46,438 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.030s of thinking
+2019-03-25 23:07:46,443 [indiana_bombs_wrapper] INFO: STARTING STEP 143
+2019-03-25 23:07:46,468 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.024s of thinking
+2019-03-25 23:07:46,469 [indiana_bombs_wrapper] INFO: STARTING STEP 144
+2019-03-25 23:07:46,481 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.012s of thinking
+2019-03-25 23:07:46,493 [indiana_bombs_wrapper] INFO: STARTING STEP 145
+2019-03-25 23:07:46,511 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.018s of thinking
+2019-03-25 23:07:46,513 [indiana_bombs_wrapper] INFO: STARTING STEP 146
+2019-03-25 23:07:46,532 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.019s of thinking
+2019-03-25 23:07:46,548 [indiana_bombs_wrapper] INFO: STARTING STEP 147
+2019-03-25 23:07:46,556 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-25 23:07:46,574 [indiana_bombs_wrapper] INFO: STARTING STEP 148
+2019-03-25 23:07:46,586 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-03-25 23:07:46,607 [indiana_bombs_wrapper] INFO: STARTING STEP 149
+2019-03-25 23:07:46,619 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.013s of thinking
+2019-03-25 23:07:46,626 [indiana_bombs_wrapper] INFO: STARTING STEP 150
+2019-03-25 23:07:46,637 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-25 23:07:46,643 [indiana_bombs_wrapper] INFO: STARTING STEP 151
+2019-03-25 23:07:46,651 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.009s of thinking
+2019-03-25 23:07:46,657 [indiana_bombs_wrapper] INFO: STARTING STEP 152
+2019-03-25 23:07:46,671 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.014s of thinking
+2019-03-25 23:07:46,674 [indiana_bombs_wrapper] INFO: STARTING STEP 153
+2019-03-25 23:07:46,681 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:46,701 [indiana_bombs_wrapper] INFO: STARTING STEP 154
+2019-03-25 23:07:46,716 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.015s of thinking
+2019-03-25 23:07:46,718 [indiana_bombs_wrapper] INFO: STARTING STEP 155
+2019-03-25 23:07:46,727 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.009s of thinking
+2019-03-25 23:07:46,743 [indiana_bombs_wrapper] INFO: STARTING STEP 156
+2019-03-25 23:07:46,751 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-25 23:07:46,757 [indiana_bombs_wrapper] INFO: STARTING STEP 157
+2019-03-25 23:07:46,769 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-03-25 23:07:46,771 [indiana_bombs_wrapper] INFO: STARTING STEP 158
+2019-03-25 23:07:46,782 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-25 23:07:46,784 [indiana_bombs_wrapper] INFO: STARTING STEP 159
+2019-03-25 23:07:46,796 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.012s of thinking
+2019-03-25 23:07:46,803 [indiana_bombs_wrapper] INFO: STARTING STEP 160
+2019-03-25 23:07:46,811 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-25 23:07:46,816 [indiana_bombs_wrapper] INFO: STARTING STEP 161
+2019-03-25 23:07:46,830 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.014s of thinking
+2019-03-25 23:07:46,859 [indiana_bombs_wrapper] INFO: STARTING STEP 162
+2019-03-25 23:07:46,862 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-03-25 23:07:46,877 [indiana_bombs_wrapper] INFO: STARTING STEP 163
+2019-03-25 23:07:46,884 [indiana_bombs_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-25 23:07:46,889 [indiana_bombs_wrapper] INFO: STARTING STEP 164
+2019-03-25 23:07:46,913 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.023s of thinking
+2019-03-25 23:07:46,953 [indiana_bombs_wrapper] INFO: STARTING STEP 165
+2019-03-25 23:07:46,969 [indiana_bombs_wrapper] INFO: Chose action UP after 0.015s of thinking
+2019-03-25 23:07:46,974 [indiana_bombs_wrapper] INFO: STARTING STEP 166
+2019-03-25 23:07:46,983 [indiana_bombs_wrapper] INFO: Chose action UP after 0.010s of thinking
+2019-03-25 23:07:46,992 [indiana_bombs_wrapper] INFO: STARTING STEP 167
+2019-03-25 23:07:47,001 [indiana_bombs_wrapper] INFO: Chose action UP after 0.008s of thinking
+2019-03-25 23:07:47,018 [indiana_bombs_wrapper] INFO: STARTING STEP 168
+2019-03-25 23:07:47,041 [indiana_bombs_wrapper] INFO: Chose action UP after 0.024s of thinking
+2019-03-25 23:07:47,053 [indiana_bombs_wrapper] INFO: STARTING STEP 169
+2019-03-25 23:07:47,062 [indiana_bombs_wrapper] INFO: Chose action UP after 0.009s of thinking
+2019-03-25 23:07:47,065 [indiana_bombs_wrapper] INFO: Received exit message for round
+2019-03-25 23:07:47,065 [indiana_bombs_wrapper] INFO: Round #1 finished
+2019-03-25 23:07:49,485 [indiana_bombs_wrapper] INFO: STARTING ROUND #2
+2019-03-25 23:07:49,516 [indiana_bombs_wrapper] INFO: STARTING STEP 1
+2019-03-25 23:07:49,518 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.002s of thinking
+2019-03-25 23:07:49,532 [indiana_bombs_wrapper] INFO: STARTING STEP 2
+2019-03-25 23:07:49,538 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-25 23:07:49,540 [indiana_bombs_wrapper] INFO: STARTING STEP 3
+2019-03-25 23:07:49,552 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-03-25 23:07:49,554 [indiana_bombs_wrapper] INFO: STARTING STEP 4
+2019-03-25 23:07:49,560 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-25 23:07:49,561 [indiana_bombs_wrapper] INFO: STARTING STEP 5
+2019-03-25 23:07:49,568 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:49,570 [indiana_bombs_wrapper] INFO: STARTING STEP 6
+2019-03-25 23:07:49,577 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-25 23:07:49,580 [indiana_bombs_wrapper] INFO: STARTING STEP 7
+2019-03-25 23:07:49,590 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-25 23:07:49,593 [indiana_bombs_wrapper] INFO: STARTING STEP 8
+2019-03-25 23:07:49,609 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-03-25 23:07:49,611 [indiana_bombs_wrapper] INFO: STARTING STEP 9
+2019-03-25 23:07:49,618 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-25 23:07:49,624 [indiana_bombs_wrapper] INFO: STARTING STEP 10
+2019-03-25 23:07:49,631 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-25 23:07:49,632 [indiana_bombs_wrapper] INFO: STARTING STEP 11
+2019-03-25 23:07:49,644 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-25 23:07:49,645 [indiana_bombs_wrapper] INFO: STARTING STEP 12
+2019-03-25 23:07:49,655 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-25 23:07:49,656 [indiana_bombs_wrapper] INFO: STARTING STEP 13
+2019-03-25 23:07:49,667 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:49,670 [indiana_bombs_wrapper] INFO: STARTING STEP 14
+2019-03-25 23:07:49,707 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.032s of thinking
+2019-03-25 23:07:49,709 [indiana_bombs_wrapper] INFO: STARTING STEP 15
+2019-03-25 23:07:49,723 [indiana_bombs_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-25 23:07:49,734 [indiana_bombs_wrapper] INFO: STARTING STEP 16
+2019-03-25 23:07:49,747 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.012s of thinking
+2019-03-25 23:07:49,757 [indiana_bombs_wrapper] INFO: STARTING STEP 17
+2019-03-25 23:07:49,776 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.019s of thinking
+2019-03-25 23:07:49,786 [indiana_bombs_wrapper] INFO: STARTING STEP 18
+2019-03-25 23:07:49,791 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-25 23:07:49,800 [indiana_bombs_wrapper] INFO: STARTING STEP 19
+2019-03-25 23:07:49,807 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.007s of thinking
+2019-03-25 23:07:49,813 [indiana_bombs_wrapper] INFO: STARTING STEP 20
+2019-03-25 23:07:49,821 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.008s of thinking
+2019-03-25 23:07:49,831 [indiana_bombs_wrapper] INFO: STARTING STEP 21
+2019-03-25 23:07:49,847 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.016s of thinking
+2019-03-25 23:07:49,857 [indiana_bombs_wrapper] INFO: STARTING STEP 22
+2019-03-25 23:07:49,863 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-25 23:07:49,871 [indiana_bombs_wrapper] INFO: STARTING STEP 23
+2019-03-25 23:07:49,876 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:49,882 [indiana_bombs_wrapper] INFO: STARTING STEP 24
+2019-03-25 23:07:49,887 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:49,894 [indiana_bombs_wrapper] INFO: STARTING STEP 25
+2019-03-25 23:07:49,899 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:49,907 [indiana_bombs_wrapper] INFO: STARTING STEP 26
+2019-03-25 23:07:49,925 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.018s of thinking
+2019-03-25 23:07:49,934 [indiana_bombs_wrapper] INFO: STARTING STEP 27
+2019-03-25 23:07:49,938 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-25 23:07:49,946 [indiana_bombs_wrapper] INFO: STARTING STEP 28
+2019-03-25 23:07:49,950 [indiana_bombs_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-25 23:07:49,959 [indiana_bombs_wrapper] INFO: STARTING STEP 29
+2019-03-25 23:07:49,965 [indiana_bombs_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-25 23:07:49,974 [indiana_bombs_wrapper] INFO: STARTING STEP 30
+2019-03-25 23:07:49,980 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-25 23:07:49,989 [indiana_bombs_wrapper] INFO: STARTING STEP 31
+2019-03-25 23:07:50,003 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.014s of thinking
+2019-03-25 23:07:50,012 [indiana_bombs_wrapper] INFO: STARTING STEP 32
+2019-03-25 23:07:50,018 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-25 23:07:50,031 [indiana_bombs_wrapper] INFO: STARTING STEP 33
+2019-03-25 23:07:50,036 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-25 23:07:50,047 [indiana_bombs_wrapper] INFO: STARTING STEP 34
+2019-03-25 23:07:50,056 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.009s of thinking
+2019-03-25 23:07:50,067 [indiana_bombs_wrapper] INFO: STARTING STEP 35
+2019-03-25 23:07:50,082 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.015s of thinking
+2019-03-25 23:07:50,092 [indiana_bombs_wrapper] INFO: STARTING STEP 36
+2019-03-25 23:07:50,098 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-25 23:07:50,108 [indiana_bombs_wrapper] INFO: STARTING STEP 37
+2019-03-25 23:07:50,114 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:50,124 [indiana_bombs_wrapper] INFO: STARTING STEP 38
+2019-03-25 23:07:50,131 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:50,140 [indiana_bombs_wrapper] INFO: STARTING STEP 39
+2019-03-25 23:07:50,158 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.018s of thinking
+2019-03-25 23:07:50,169 [indiana_bombs_wrapper] INFO: STARTING STEP 40
+2019-03-25 23:07:50,172 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-25 23:07:50,181 [indiana_bombs_wrapper] INFO: STARTING STEP 41
+2019-03-25 23:07:50,184 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-03-25 23:07:50,192 [indiana_bombs_wrapper] INFO: STARTING STEP 42
+2019-03-25 23:07:50,196 [indiana_bombs_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-25 23:07:50,204 [indiana_bombs_wrapper] INFO: STARTING STEP 43
+2019-03-25 23:07:50,208 [indiana_bombs_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-25 23:07:50,218 [indiana_bombs_wrapper] INFO: STARTING STEP 44
+2019-03-25 23:07:50,225 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-25 23:07:50,244 [indiana_bombs_wrapper] INFO: STARTING STEP 45
+2019-03-25 23:07:50,249 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.005s of thinking
+2019-03-25 23:07:50,257 [indiana_bombs_wrapper] INFO: STARTING STEP 46
+2019-03-25 23:07:50,265 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-03-25 23:07:50,273 [indiana_bombs_wrapper] INFO: STARTING STEP 47
+2019-03-25 23:07:50,280 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-03-25 23:07:50,285 [indiana_bombs_wrapper] INFO: STARTING STEP 48
+2019-03-25 23:07:50,314 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.028s of thinking
+2019-03-25 23:07:50,360 [indiana_bombs_wrapper] INFO: STARTING STEP 49
+2019-03-25 23:07:50,365 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:50,370 [indiana_bombs_wrapper] INFO: STARTING STEP 50
+2019-03-25 23:07:50,393 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.023s of thinking
+2019-03-25 23:07:50,398 [indiana_bombs_wrapper] INFO: STARTING STEP 51
+2019-03-25 23:07:50,451 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.052s of thinking
+2019-03-25 23:07:50,463 [indiana_bombs_wrapper] INFO: STARTING STEP 52
+2019-03-25 23:07:50,480 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.017s of thinking
+2019-03-25 23:07:50,491 [indiana_bombs_wrapper] INFO: STARTING STEP 53
+2019-03-25 23:07:50,524 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.033s of thinking
+2019-03-25 23:07:50,538 [indiana_bombs_wrapper] INFO: STARTING STEP 54
+2019-03-25 23:07:50,551 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.014s of thinking
+2019-03-25 23:07:50,562 [indiana_bombs_wrapper] INFO: STARTING STEP 55
+2019-03-25 23:07:50,575 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.013s of thinking
+2019-03-25 23:07:50,585 [indiana_bombs_wrapper] INFO: STARTING STEP 56
+2019-03-25 23:07:50,598 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.013s of thinking
+2019-03-25 23:07:50,609 [indiana_bombs_wrapper] INFO: STARTING STEP 57
+2019-03-25 23:07:50,615 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.006s of thinking
+2019-03-25 23:07:50,635 [indiana_bombs_wrapper] INFO: STARTING STEP 58
+2019-03-25 23:07:50,642 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.007s of thinking
+2019-03-25 23:07:50,652 [indiana_bombs_wrapper] INFO: STARTING STEP 59
+2019-03-25 23:07:50,658 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.006s of thinking
+2019-03-25 23:07:50,666 [indiana_bombs_wrapper] INFO: STARTING STEP 60
+2019-03-25 23:07:50,671 [indiana_bombs_wrapper] INFO: Chose action WAIT after 0.005s of thinking
+2019-03-25 23:07:50,678 [indiana_bombs_wrapper] INFO: STARTING STEP 61
+2019-03-25 23:07:50,683 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-03-25 23:07:50,692 [indiana_bombs_wrapper] INFO: STARTING STEP 62
+2019-03-25 23:07:50,704 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.012s of thinking
+2019-03-25 23:07:50,714 [indiana_bombs_wrapper] INFO: STARTING STEP 63
+2019-03-25 23:07:50,719 [indiana_bombs_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-03-25 23:07:50,728 [indiana_bombs_wrapper] INFO: STARTING STEP 64
+2019-03-25 23:07:50,731 [indiana_bombs_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-03-25 23:07:50,741 [indiana_bombs_wrapper] INFO: STARTING STEP 65
+2019-03-25 23:07:50,748 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.008s of thinking
+2019-03-25 23:07:50,750 [indiana_bombs_wrapper] INFO: STARTING STEP 66
+2019-03-25 23:07:50,756 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.005s of thinking
+2019-03-25 23:07:50,761 [indiana_bombs_wrapper] INFO: STARTING STEP 67
+2019-03-25 23:07:50,765 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-25 23:07:50,779 [indiana_bombs_wrapper] INFO: STARTING STEP 68
+2019-03-25 23:07:50,785 [indiana_bombs_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-25 23:07:50,790 [indiana_bombs_wrapper] INFO: STARTING STEP 69
+2019-03-25 23:07:50,794 [indiana_bombs_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-03-25 23:07:50,801 [indiana_bombs_wrapper] INFO: STARTING STEP 70
+2019-03-25 23:07:50,805 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-25 23:07:50,813 [indiana_bombs_wrapper] INFO: STARTING STEP 71
+2019-03-25 23:07:50,818 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-03-25 23:07:50,826 [indiana_bombs_wrapper] INFO: STARTING STEP 72
+2019-03-25 23:07:50,830 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-03-25 23:07:50,838 [indiana_bombs_wrapper] INFO: STARTING STEP 73
+2019-03-25 23:07:50,854 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.016s of thinking
+2019-03-25 23:07:50,856 [indiana_bombs_wrapper] INFO: STARTING STEP 74
+2019-03-25 23:07:50,862 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.006s of thinking
+2019-03-25 23:07:50,864 [indiana_bombs_wrapper] INFO: STARTING STEP 75
+2019-03-25 23:07:50,871 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:50,872 [indiana_bombs_wrapper] INFO: STARTING STEP 76
+2019-03-25 23:07:50,879 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.006s of thinking
+2019-03-25 23:07:50,881 [indiana_bombs_wrapper] INFO: STARTING STEP 77
+2019-03-25 23:07:50,886 [indiana_bombs_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-03-25 23:07:50,889 [indiana_bombs_wrapper] INFO: STARTING STEP 78
+2019-03-25 23:07:50,896 [indiana_bombs_wrapper] INFO: Chose action UP after 0.007s of thinking
+2019-03-25 23:07:50,898 [indiana_bombs_wrapper] INFO: STARTING STEP 79
+2019-03-25 23:07:50,905 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.007s of thinking
+2019-03-25 23:07:50,907 [indiana_bombs_wrapper] INFO: STARTING STEP 80
+2019-03-25 23:07:50,916 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.009s of thinking
+2019-03-25 23:07:50,918 [indiana_bombs_wrapper] INFO: STARTING STEP 81
+2019-03-25 23:07:50,928 [indiana_bombs_wrapper] INFO: Chose action LEFT after 0.010s of thinking
+2019-03-25 23:07:50,931 [indiana_bombs_wrapper] INFO: STARTING STEP 82
+2019-03-25 23:07:50,940 [indiana_bombs_wrapper] INFO: Chose action RIGHT after 0.010s of thinking
+2019-03-25 23:07:50,944 [indiana_bombs_wrapper] INFO: STARTING STEP 83
+2019-03-25 23:07:50,947 [indiana_bombs_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-03-25 23:07:50,949 [indiana_bombs_wrapper] INFO: STARTING STEP 84
+2019-03-25 23:07:50,955 [indiana_bombs_wrapper] INFO: Chose action UP after 0.006s of thinking
+2019-03-25 23:07:50,958 [indiana_bombs_wrapper] INFO: Received exit message for round
+2019-03-25 23:07:50,958 [indiana_bombs_wrapper] INFO: Round #2 finished
+2019-03-25 23:07:52,338 [indiana_bombs_wrapper] INFO: Received global exit message
+2019-03-25 23:07:52,338 [indiana_bombs_wrapper] INFO: SHUT DOWN
